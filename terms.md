@@ -68,5 +68,6 @@ We may update these Terms from time to time. If we make significant changes, we 
 
 If you have any questions about these Terms and Conditions, please contact us at:
 
-📧 **Email:** charlie@minimalcompany.com
-🏢 **The Minimal Company**
+**Email:** charlie@minimalcompany.com
+
+© 2025 The Minimal Company. All rights reserved.
