@@ -76,6 +76,7 @@ You have control over your data:
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** charlie@minimalcompany.com 
+**Email:** charlie@minimalcompany.com
+
 © 2025 The Minimal Company. All rights reserved.
 
