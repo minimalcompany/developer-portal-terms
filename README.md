@@ -1,2 +1,5 @@
-# developer-portal-terms
-Terms and Conditions / Privacy Policy for portal.minimalcompany.dev
+# Developer Portal Legal Information
+
+[Privacy Policy](privacy-policy.md)
+
+[Terms and Conditions](terms.md)
